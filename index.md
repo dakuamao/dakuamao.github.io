@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 倪琛
 
-You can use the [editor on GitHub](https://github.com/chen-ni/chen-ni.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+一个热爱创作的程序员。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+偶尔参与开源项目。[GitHub 主页](https://github.com/chen-ni)。
 
-### Markdown
+### 创作平台
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+可以在以下创作平台找到我：
 
-```markdown
-Syntax highlighted code block
+- [知乎](https://www.zhihu.com/people/voissurtonchemin)：非技术为主
+- [CSDN](https://blog.csdn.net/VoisSurTonChemin)：技术博客
+- [Stack Overflow](https://stackoverflow.com/users/7438905/chen-ni?tab=profile)：技术问答
+- [dev.to](https://dev.to/chenni)：技术博客
+- [Medium](https://medium.com/@chen.ni)：技术博客
+- [YouTube](https://www.youtube.com/channel/UCFUVkQ6DNToEPjgbmXhhvlA)：技术视频
 
-# Header 1
-## Header 2
-### Header 3
+### 联系方式
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chen-ni/chen-ni.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [领英](https://www.linkedin.com/in/chen-ni-2b40491b6/)
+- 邮箱：nichen301@sina.com
+- 微信：nichen_m
