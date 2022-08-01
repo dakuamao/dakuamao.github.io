@@ -18,6 +18,11 @@
 - [Medium](https://medium.com/@chen.ni)：技术博客
 - [YouTube](https://www.youtube.com/channel/UCFUVkQ6DNToEPjgbmXhhvlA)：技术视频
 
+### 译著
+- [《敏捷实战：破解敏捷落地的60个难题》](https://book.douban.com/subject/35222610/)，人民邮电出版社，图灵程序设计丛书，2020年9月
+- [《生成对抗网络项目实战》](https://book.douban.com/subject/34925965/)，人民邮电出版社，图灵程序设计丛书，2020年1月
+- [《Python计算机视觉和自然语言处理》](https://book.douban.com/subject/36014673/)，人民邮电出版社，异步图书，2021年6月
+
 ### 联系方式
 
 - [领英](https://www.linkedin.com/in/chen-ni-2b40491b6/)
