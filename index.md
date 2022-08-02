@@ -18,6 +18,16 @@
 - [Medium](https://medium.com/@chen.ni)：技术博客
 - [YouTube](https://www.youtube.com/channel/UCFUVkQ6DNToEPjgbmXhhvlA)：技术视频
 
+### 技术专栏
+
+- [为什么一定要写单元测试](https://www.zhihu.com/column/c_1537778721070538753)
+- [编程的本质](https://www.zhihu.com/column/c_1537780429205196800)
+- [如何学习编程](https://www.zhihu.com/column/c_1537784579317977088)
+- [Java 编程](https://blog.csdn.net/voissurtonchemin/category_11146966.html)
+- [Mockito 源码解读](https://blog.csdn.net/voissurtonchemin/category_11851543.html)
+- [JUnit 源码解读](https://blog.csdn.net/voissurtonchemin/category_11863385.html)
+- [Next.js 源码解读](https://blog.csdn.net/voissurtonchemin/category_11503809.html)
+
 ### 译著
 - [《敏捷实战：破解敏捷落地的60个难题》](https://book.douban.com/subject/35222610/)，人民邮电出版社，图灵程序设计丛书，2020年9月
 - [《生成对抗网络项目实战》](https://book.douban.com/subject/34925965/)，人民邮电出版社，图灵程序设计丛书，2020年1月
