@@ -18,6 +18,13 @@
 - [Medium](https://medium.com/@chen.ni)：技术博客
 - [YouTube](https://www.youtube.com/channel/UCFUVkQ6DNToEPjgbmXhhvlA)：技术视频
 
+### 非技术专栏
+- [人生的乐趣](https://www.zhihu.com/column/c_1537898601350553600)
+- [职场杂谈](https://www.zhihu.com/column/c_1537899387120742401)
+- [为什么你应该早睡早起](https://www.zhihu.com/column/c_1537904813211258880)
+- [阅读是一座随身携带的避难所](https://www.zhihu.com/column/c_1537905533952118784)
+- [学英语，去外企](https://www.zhihu.com/column/c_1538408187530731520)
+
 ### 技术专栏
 
 - [为什么你应该写单元测试](https://www.zhihu.com/column/c_1537778721070538753)
@@ -27,12 +34,6 @@
 - [Mockito 源码解读](https://blog.csdn.net/voissurtonchemin/category_11851543.html)
 - [JUnit 源码解读](https://blog.csdn.net/voissurtonchemin/category_11863385.html)
 - [Next.js 源码解读](https://blog.csdn.net/voissurtonchemin/category_11503809.html)
-
-### 非技术专栏
-- [情绪管理](https://www.zhihu.com/column/c_1537898601350553600)
-- [职场杂谈](https://www.zhihu.com/column/c_1537899387120742401)
-- [为什么你应该早睡早起](https://www.zhihu.com/column/c_1537904813211258880)
-- [阅读是一座随身携带的避难所](https://www.zhihu.com/column/c_1537905533952118784)
 
 ### 译著
 - [《敏捷实战：破解敏捷落地的60个难题》](https://book.douban.com/subject/35222610/)，人民邮电出版社，图灵程序设计丛书，2020年9月
