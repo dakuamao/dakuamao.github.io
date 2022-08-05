@@ -12,7 +12,6 @@
 
 - [知乎](https://www.zhihu.com/people/voissurtonchemin)：非技术为主
 - [CSDN](https://blog.csdn.net/VoisSurTonChemin)：技术博客
-- [豆瓣](https://www.douban.com/people/chen-ni)：书评
 - [Stack Overflow](https://stackoverflow.com/users/7438905/chen-ni?tab=profile)：技术问答
 - [dev.to](https://dev.to/chenni)：技术博客
 - [Medium](https://medium.com/@chen.ni)：技术博客
