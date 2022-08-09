@@ -17,6 +17,15 @@
 - [Medium](https://medium.com/@chen.ni)：技术博客
 - [YouTube](https://www.youtube.com/channel/UCFUVkQ6DNToEPjgbmXhhvlA)：技术视频
 
+### 非技术专栏
+
+- [语言是思维的脚手架](https://www.zhihu.com/column/c_1540444269467054080)
+- [人生的乐趣](https://www.zhihu.com/column/c_1537898601350553600)
+- [职场杂谈](https://www.zhihu.com/column/c_1537899387120742401)
+- [为什么你应该早睡早起](https://www.zhihu.com/column/c_1537904813211258880)
+- [阅读是一座随身携带的避难所](https://www.zhihu.com/column/c_1537905533952118784)
+- [金融随笔](https://www.zhihu.com/column/c_1539534883348668416)
+
 ### 技术专栏
 
 - [编程的本质](https://www.zhihu.com/column/c_1537780429205196800)
@@ -28,15 +37,8 @@
 - [JUnit 源码解读](https://blog.csdn.net/voissurtonchemin/category_11863385.html)
 - [Next.js 源码解读](https://blog.csdn.net/voissurtonchemin/category_11503809.html)
 
-### 非技术专栏
-- [人生的乐趣](https://www.zhihu.com/column/c_1537898601350553600)
-- [职场杂谈](https://www.zhihu.com/column/c_1537899387120742401)
-- [为什么你应该早睡早起](https://www.zhihu.com/column/c_1537904813211258880)
-- [阅读是一座随身携带的避难所](https://www.zhihu.com/column/c_1537905533952118784)
-- [学英语，去外企](https://www.zhihu.com/column/c_1538408187530731520)
-- [金融随笔](https://www.zhihu.com/column/c_1539534883348668416)
-
 ### 译著
+
 - [《敏捷实战：破解敏捷落地的60个难题》](https://book.douban.com/subject/35222610/)，人民邮电出版社，图灵程序设计丛书，2020年9月
 - [《生成对抗网络项目实战》](https://book.douban.com/subject/34925965/)，人民邮电出版社，图灵程序设计丛书，2020年1月
 - [《Python计算机视觉和自然语言处理》](https://book.douban.com/subject/36014673/)，人民邮电出版社，异步图书，2021年6月
