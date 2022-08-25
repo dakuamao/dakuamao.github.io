@@ -32,6 +32,7 @@
 - [编程的本质](https://www.zhihu.com/column/c_1537780429205196800)
 - [编程入门指南](https://www.zhihu.com/column/c_1537784579317977088)
 - [编程进阶指南](https://www.zhihu.com/column/c_1539720267319885824)
+- [程序员实用工具](https://www.zhihu.com/column/c_1546055736630996992)
 - [为什么你应该写单元测试](https://www.zhihu.com/column/c_1537778721070538753)
 - [Mockito 源码解读](https://blog.csdn.net/voissurtonchemin/category_11851543.html)
 - [JUnit 源码解读](https://blog.csdn.net/voissurtonchemin/category_11863385.html)
