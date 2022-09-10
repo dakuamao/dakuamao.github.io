@@ -17,17 +17,6 @@
 - [Medium](https://medium.com/@chen.ni)：技术博客
 - [YouTube](https://www.youtube.com/channel/UCFUVkQ6DNToEPjgbmXhhvlA)：技术视频
 
-### 非技术专栏
-
-- [语言是思维的脚手架](https://www.zhihu.com/column/c_1540444269467054080)
-- [人生的乐趣](https://www.zhihu.com/column/c_1537898601350553600)
-- [职场杂谈](https://www.zhihu.com/column/c_1537899387120742401)
-- [学英语，去外企](https://www.zhihu.com/column/c_1544425078657601536)
-- [抵制 996，从今天做起](https://www.zhihu.com/column/c_1550737593058496512)
-- [为什么你应该早睡早起](https://www.zhihu.com/column/c_1537904813211258880)
-- [阅读是一座随身携带的避难所](https://www.zhihu.com/column/c_1537905533952118784)
-- [金融随笔](https://www.zhihu.com/column/c_1539534883348668416)
-
 ### 技术专栏
 
 - [编程的本质](https://www.zhihu.com/column/c_1537780429205196800)
