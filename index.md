@@ -10,12 +10,13 @@
 
 可以在以下创作平台找到我：
 
-- [知乎](https://www.zhihu.com/people/voissurtonchemin)：非技术为主
-- [CSDN](https://blog.csdn.net/VoisSurTonChemin)：技术博客
-- [Stack Overflow](https://stackoverflow.com/users/7438905/chen-ni?tab=profile)：技术问答
-- [dev.to](https://dev.to/chenni)：技术博客
-- [Medium](https://medium.com/@chen.ni)：技术博客
-- [YouTube](https://www.youtube.com/channel/UCFUVkQ6DNToEPjgbmXhhvlA)：技术视频
+- 知乎：[倪琛](https://www.zhihu.com/people/voissurtonchemin)
+- 公众号：倪琛聊历史
+- CSDN：[倪琛](https://blog.csdn.net/VoisSurTonChemin)
+- Stack Overflow：[Chen Ni](https://stackoverflow.com/users/7438905/chen-ni?tab=profile)
+- dev.to：[@chenni](https://dev.to/chenni)
+- Medium：[@chen.ni](https://medium.com/@chen.ni)
+- YouTube：[Chen Ni](https://www.youtube.com/channel/UCFUVkQ6DNToEPjgbmXhhvlA)
 
 ### 技术专栏
 
@@ -34,6 +35,6 @@
 
 ### 联系方式
 
-- [领英](https://www.linkedin.com/in/chen-ni-2b40491b6/)
+- 领英：[Chen Ni](https://www.linkedin.com/in/chen-ni-2b40491b6/)
 - 邮箱：nichen301@sina.com
 - 微信：nichen_m
