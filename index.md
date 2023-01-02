@@ -12,6 +12,7 @@ GitHub 主页：[@chen-ni](https://github.com/chen-ni)
 
 - 知乎：[倪琛](https://www.zhihu.com/people/voissurtonchemin)
 - 公众号：倪琛聊历史
+- 豆瓣：[倪琛](https://www.douban.com/people/chen-ni)
 - CSDN：[倪琛](https://blog.csdn.net/VoisSurTonChemin)
 - Stack Overflow：[Chen Ni](https://stackoverflow.com/users/7438905/chen-ni?tab=profile)
 - dev.to：[@chenni](https://dev.to/chenni)
