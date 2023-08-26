@@ -1,6 +1,6 @@
 ## Zhao-yong Sun
 
-Zhao-Yong Sun is an Associate Professor at Xi’an University of Technology, China. 
+Zhao-Yong Sun is an Associate Professor at Xi’an University of Technology. 
 
 <img width="200" alt="profile" src="https://github.com/dakuamao/dakuamao.github.io/blob/main/abc.png">
 
