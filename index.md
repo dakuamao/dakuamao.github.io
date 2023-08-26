@@ -2,8 +2,7 @@
 
 Zhao-Yong Sun is an Associate Professor at Xi’an University of Technology, China. 
 
-<img width="200" alt="profile" src="https://github.com/dakuamao/dakuamao.github.io/blob/main/abc.png">
-
+<img width="300" alt="profile" src="https://github.com/dakuamao/dakuamao.github.io/blob/main/abc.png">
 ## Specialized in
 - Economics
 - Game theory
