@@ -1,32 +1,30 @@
-## 倪琛
+## Zhao-yong Sun
 
-一个热爱创作的程序员。
-
-GitHub 主页：[@chen-ni](https://github.com/chen-ni)
+Zhao-Yong Sun is an Associate Professor at Xi’an University of Technology, China. 
 
 <img width="200" alt="profile" src="https://user-images.githubusercontent.com/25177645/182061667-2b214ca1-2720-4cab-a275-04bb2bd71f0d.png">
 
-### 创作平台
 
-可以在以下创作平台找到我：
+## Specialized in
+- Economics
+- Game theory
+- Econometrics
+## Research interests
+- Renewable Energy
+- Artificial Intelligence
+## Education
+- Northwest University (China), Ph.D. in Economics. November 2014.
+- Sichuan University, M.A. in Economics. July 2005.
+- Taiyuan Normal University, B.A. in Law, School of Law. July 2001.
+## Publications 
+* Dongdong Li, Chenxuan Shang, Leonard F.S. Wang, Wei-Chiao Huang, Zhao-Yong Sun. Environmental technology licensing with multi-product competition in a vertically differentiated duopoly. Economics of Innovation and New Technology. 2023. (SSCI) 
+* Zhao-Yong Sun, Yu-Jue Wang, Dongdong Li. Carbon allowance allocation rules under emission intensity regulation: grandfathering versus benchmarking. Managerial and Decision Economics. 2023. (SSCI) 
+* Dongdong Li, Chenxuan Shang, Zhao-Yong Sun. Firms’ environmental R&D cooperation strategy with strategic corporate social responsibility. Technology Analysis & Strategic Management. 2023. (SSCI).
+* Zhao-Yong Sun, Wei-Chiao Huang. The Effects of Unexpected Crude Oil Price Shocks on Chinese Stock Markets. Economic Change and Restructuring. 2023. (SSC).
+* Zhao-Yong Sun, Min-Xin Deng, Dongdong Li, Yeran Sun. Characteristics and driving factors of carbon emissions in China. Journal of Environmental Planning and Management. 2022. (SSCI). 
+* Zhao-Yong Sun, Meng-Jie Li, Dongdong Li. Carbon performance and corporate financial performance: the moderating role of consumer awareness of corporate social responsibility. Managerial and Decision Economics. 2023. 44 (1), 663-670. (SSCI). 
+* Zhao-Yong Sun, Shu-Ning Wang, Dongdong Li. The impacts of carbon emissions and voluntary carbon disclosure on firm value. Environmental Science and  Pollution Research. 2022. 29 (40), 60189-60197. (SCI&SSCI). 
+* Zhao-Yong Sun, Xin-Yu Cai, Wei-Chiao Huang. The Impact of Oil Price Fluctuations on Consumption, Output, and Investment in China's Industrial Sectors. Energies 2022, 15 (9), 3411. (SCI & SSCI).
 
-- 知乎：[倪琛](https://www.zhihu.com/people/voissurtonchemin)
-- 公众号：倪琛聊历史、倪琛聊职场
-- 豆瓣：[倪琛](https://www.douban.com/people/chen-ni)
-- CSDN：[倪琛](https://blog.csdn.net/VoisSurTonChemin)
-- Stack Overflow：[Chen Ni](https://stackoverflow.com/users/7438905/chen-ni?tab=profile)
-- dev.to：[@chenni](https://dev.to/chenni)
-- Medium：[@chen.ni](https://medium.com/@chen.ni)
-- YouTube：[Chen Ni](https://www.youtube.com/channel/UCFUVkQ6DNToEPjgbmXhhvlA)
-
-### 译著
-
-- [《敏捷实战：破解敏捷落地的60个难题》](https://book.douban.com/subject/35222610/)，图灵程序设计丛书，人民邮电出版社，2020年9月
-- [《生成对抗网络项目实战》](https://book.douban.com/subject/34925965/)，图灵程序设计丛书，人民邮电出版社，2020年1月
-- [《Python计算机视觉和自然语言处理》](https://book.douban.com/subject/36014673/)，异步图书，人民邮电出版社，2021年6月
-
-### 联系方式
-
-- 领英：[Chen Ni](https://www.linkedin.com/in/chen-ni-2b40491b6/)
-- 邮箱：nichen301@sina.com
-- 微信：nichen_m
+## Email
+- dakuamao@126.com
